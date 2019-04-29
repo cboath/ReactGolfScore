@@ -1,0 +1,19 @@
+.HoleNumber {
+    border: 1px solid #eee;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.HoleScore {
+    border: 1px solid #eee;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.rowC {
+    display:flex;
+    flex-direction:row;
+}
