@@ -4,7 +4,7 @@ import './index.css'
 import GolfScore from './GolfScore'
 import * as serviceWorker from './serviceWorker'
 
-const players = [
+/* const players = [
     {
         id: 1,
         firstName: 'Chris',
@@ -46,7 +46,7 @@ const scores = [
         h08: 4,
         h09: 4
     }
-]
+] */
 
 ReactDOM.render(<GolfScore />, document.getElementById('root'))
 
