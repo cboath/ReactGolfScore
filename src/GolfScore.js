@@ -41,8 +41,8 @@ let state = [{
     { hole: 11, score: 3 },
     { hole: 12, score: 4 },
     { hole: 13, score: 5 },
-    { hole: 14, score: 6 },
-    { hole: 15, score: 4 },
+    { hole: 14, score: 3 },
+    { hole: 15, score: 5 },
     { hole: 16, score: 4 },
     { hole: 17, score: 5 },
     { hole: 18, score: 4 }
